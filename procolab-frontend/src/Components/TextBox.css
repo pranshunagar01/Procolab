@@ -1,0 +1,269 @@
+.textbox{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+body{
+    overflow-x: hidden;
+}
+.navbar{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+}
+.chatboxdiv{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+
+}
+.sidebar{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+}
+
+.subdiv::-webkit-scrollbar {
+    width: 8px;
+}
+.createnewbox1{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+.subdiv::-webkit-scrollbar-track {
+    border-radius: 0;
+}
+
+.subdiv::-webkit-scrollbar-thumb {
+    background-color: #efefef;
+    border-radius: 0px;
+}
+@media only screen and (max-width: 1560px) {
+    
+}
+
+@media only screen and (max-width: 1200px) {
+    .actualbutton{
+        position: relative;
+        right: 34%;
+        bottom: 20px;
+    }
+    
+  }
+  
+  @media only screen and (max-width: 1000px) {
+    
+    .actualbutton{
+        position: relative;
+        right: 43%;
+        bottom: 30px;
+    }
+    
+  }
+  
+  @media only screen and (max-width: 800px) {
+    
+    .actualbutton{
+        position: relative;
+        right: 65%;
+        bottom: 40px;
+    }
+    
+  }
+  @media only screen and (max-width: 600px) {
+    
+    .actualbutton{
+        position: relative;
+        right: 82%;
+        bottom: 50px;
+    }
+    .sidebar{
+        height: 280px
+    }
+  }
+  @media only screen and (max-width: 500px) {
+    .actualbutton{
+        position: relative;
+        right: 91%;
+        bottom: 55px;
+    }
+    .sidebar{
+        height: 260px
+    }
+  }
+
+.logout{
+    box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .error{
+        width: 60%;
+    }
+}
+@media only screen and (max-width: 870px) {
+    .error{
+        width: 50%;
+    }
+}
+@media only screen and (max-width: 700px) {
+    .error{
+        width: 45%;
+    }
+}
+@media only screen and (max-width: 1100px) {
+    .emailsidebar{
+        display: none;
+    }
+    .emailsidebarsmall{
+        display: inline;
+    }
+}
+@media only screen and (min-width: 1100px) {
+    
+    .emailsidebarsmall{
+        display: none;
+    }
+}
+@media only screen and (max-width: 750px) {
+    
+    .emailsidebarsmall{
+        display: none;
+    }
+}
+.sidebarlist::-webkit-scrollbar {
+    width: 5px;
+  }
+.sidebarlist::-webkit-scrollbar-track {
+    border-radius: 1px;
+  }
+  
+  /* Handle */
+  .sidebarlist::-webkit-scrollbar-thumb {
+    background: #efefef;
+    border-radius: 1px;
+  }
+
+#mainchatdiv::-webkit-scrollbar {
+    width: 6px;
+}
+
+#mainchatdiv::-webkit-scrollbar-track {
+    border-radius: 0;
+}
+
+#mainchatdiv::-webkit-scrollbar-thumb {
+    background-color: #dbdbdb;
+    border-radius: 0px;
+}
+.chatboxdiv{
+    backdrop-filter: blur(16px) saturate(180%);
+    -webkit-backdrop-filter: blur(16px) saturate(180%);
+    background-color: rgba(255, 255, 255, 0.75);
+}
+
+@media only screen and (max-width: 1560px) and (min-width: 1353px) {
+    .font{
+        position: relative;
+        bottom: 50px;
+        
+    }
+    .image{
+        width: 100%;
+        position: relative;
+        left: 40px;
+        bottom: 20px;
+
+    }
+    .buttonmainpage{
+        position: absolute;
+        top: 300px;
+        right: 310px;
+    }
+}
+
+@media only screen and (max-width: 1353px) and (min-width: 1200px) {
+    .font{
+        position: relative;
+        top: 20px
+        
+    }
+    .image{
+        width: '100%';
+        position: relative;
+        left: 40px;
+        bottom: 20px;
+
+    }
+    .buttonmainpage{
+        position: absolute;
+        top: 350px;
+        right: 310px;
+    }
+}
+@media only screen and (max-width: 1199px) and (min-width: 900px) {
+    .font{
+        position: relative;
+        top: 30px;
+        left: 72px
+    }
+    .image{
+        width: '100%';
+        position: relative;
+        bottom: 10px;
+
+    }
+    .buttonmainpage{
+        position: relative;
+        bottom: 80px;
+        left: 180px
+    }
+}
+@media only screen and (max-width: 900px) and (min-width: 796px) {
+    .font{
+        position: relative;
+        top: 30px;
+        left: 42px;
+    }
+    .image{
+        width: '100%';
+        position: relative;
+        bottom: 10px;
+
+    }
+    .buttonmainpage{
+        position: relative;
+        bottom: 80px;
+        left: 80px
+    }
+}
+
+@media only screen and (max-width: 796px) {
+    .font{
+        position: relative;
+        top: 30px;
+        
+    }
+    .image{
+        width: '100%';
+        position: relative;
+        top: 40px
+
+    }
+    .buttonmainpage{
+        position: relative;
+        left: 45px;
+        top: 80px
+    }
+}
+@media only screen and (max-width: 840px) and (min-width: 797px) {
+    .font{
+        position: relative;
+        top: 30px;
+        left: 42px;
+    }
+    .image{
+        width: '100%';
+        position: relative;
+        top: 20px
+
+    }
+    .buttonmainpage{
+        position: relative;
+        top: 70px;
+        left: 80px
+    }
+}
+
+
