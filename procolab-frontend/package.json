@@ -1,0 +1,60 @@
+{
+  "name": "collaborate-app",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@auth0/auth0-react": "^1.9.0",
+    "@chakra-ui/react": "^1.8.5",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.0.0",
+    "@fortawesome/react-fontawesome": "^0.1.17",
+    "@lottiefiles/lottie-player": "^1.5.5",
+    "@mantine/core": "^3.6.7",
+    "@mantine/hooks": "^3.6.7",
+    "@modulz/radix-icons": "^4.0.0",
+    "@mui/icons-material": "^5.4.2",
+    "@mui/material": "^5.4.1",
+    "@mui/x-data-grid": "^5.5.1",
+    "@mui/x-data-grid-generator": "^5.5.1",
+    "@testing-library/jest-dom": "^5.16.2",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "@uiw/react-monacoeditor": "^3.5.2",
+    "@uiw/react-textarea-code-editor": "^1.4.16",
+    "axios": "^0.26.0",
+    "jquery": "^3.6.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-icons": "^4.3.1",
+    "react-player": "^2.9.0",
+    "react-scripts": "5.0.0",
+    "react-tooltip": "^4.2.21",
+    "socket.io-client": "^4.4.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
