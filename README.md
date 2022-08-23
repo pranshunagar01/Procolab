@@ -1,4 +1,4 @@
-# procolab-v1
+# ProColab - The perfect tool for collaborative coding.
 <h4>Procolab is a collaborative coding platform built for seamless coding in real-time with your team. Procolab also includes a real-time chat functionality to converse with your team while you code.</h4><br>
 
 
