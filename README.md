@@ -1,6 +1,6 @@
 # ProColab - Pro tool for collaborative coding.
 
-<img src="https://user-images.githubusercontent.com/59359937/186548890-2922b1df-2973-4536-b348-761b7a4c82c2.jpg" width="200"/>
+<img src="https://user-images.githubusercontent.com/59359937/186548890-2922b1df-2973-4536-b348-761b7a4c82c2.jpg" width="100"/>
 
 <img src ="https://user-images.githubusercontent.com/59359937/186301737-51d619da-dbde-4011-9973-f657784723ab.png" width="300" />
 
