@@ -7,21 +7,27 @@
 
 Link - <a style="display:inline" href="https://procolab-v1.herokuapp.com/">ProColab</a>  
 
+<img src="https://user-images.githubusercontent.com/59359937/186280746-7d9bd5a3-ae32-4926-b24f-9af96be34a0e.jpg" width="400" />
+
 <h4>What is Procolab?</h4>
 <h3>Procolab is the perfect tool for collaborating in real-time with team on code development and project management.
     With its intuitive interface and powerful collaboration features, Procolab is the perfect tool for coding projects.</h3>
 
 <h4>Features</h4>
-<h3>1. Real-time collaboration</h3>
-<h3>2. Code editor</h3>
-<h3>3. Project management</h3>
-<h3>4. Chat</h3>
-<h3>5. File saving and sharing</h3>
-<h3>6. Code execution</h3>
-<h3>7. Code sharing</h3>
+<ul>
+<li>1. Real-time collaboration</li>
+<li>2. Code editor</li>
+<li>3. Project management</li>
+<li>4. Chat</li>
+<li>5. File saving and sharing</li>
+<li>6. Code execution</li>
+<li>7. Code sharing</li>
+</ul>
 
-<h4>How to use?</h4>
-<h3>1. Create a new project</h3>
+
+<li>How to use?
+<ul>
+<li>1. Create a new project
 <ul>
     <li>Select file name</li>
     <li>Select coding language</li>
@@ -40,9 +46,9 @@ Link - <a style="display:inline" href="https://procolab-v1.herokuapp.com/">ProCo
     <li>The project is opened in the collaboration environment</li>
 
 </ul>
+</li>
+    </ul>
+    </li>
 
-<img src="https://user-images.githubusercontent.com/59359937/186280746-7d9bd5a3-ae32-4926-b24f-9af96be34a0e.jpg" width="600" />
-
-<img src="https://i.imgur.com/hbZ6zZp.gif" width="1000" />
 
 
