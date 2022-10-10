@@ -150,8 +150,7 @@ Link -
             <li>Shows the permission each collaborator has</li>
         </ul>
       </li>
-      
-    </ul>
+     </ul>
   </li>
   <br>
 </ul>
