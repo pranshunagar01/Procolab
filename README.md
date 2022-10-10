@@ -40,7 +40,7 @@ Link -
 <ul>
   <li>
     Get Started by selecting "Sign in Now" on the home page.
-    <img src="https://user-images.githubusercontent.com/59359937/194952072-edfeb56b-9b1b-4e39-9b4c-541686a28659.jpg" width="400"/>
+    <img style="display: inline" src="https://user-images.githubusercontent.com/59359937/194952072-edfeb56b-9b1b-4e39-9b4c-541686a28659.jpg" width="400">
 
     <ul>
       <li>
