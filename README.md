@@ -50,7 +50,7 @@ Link -
       <li>
         Login with an existing account.
         <ul>
-          <img style="display: inline" src="https://user-images.githubusercontent.com/59359937/194952741-0c69dbc7-0082-4442-96a6-142c37bb2fb5.jpg" width="500"/>
+          <img style="display: inline" src="https://user-images.githubusercontent.com/59359937/194952741-0c69dbc7-0082-4442-96a6-142c37bb2fb5.jpg" width="300"/>
           <li>Enter your registered email address</li>
           <li>Enter the password you used while signing up</li>
           <li>Click on continue.</li>
