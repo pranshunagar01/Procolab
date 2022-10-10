@@ -82,10 +82,9 @@ Link -
   <br>
   <li>
     Create a new project by selecting "Make a Project"
-     <ul>
-        <img style="display: inline" src="https://user-images.githubusercontent.com/59359937/194953388-d5b1af9e-377a-4b82-8107-4918a2449ccb.jpg" width="300"/>
-     </ul>
-
+    <ul>
+      <img style="display: inline" src="https://user-images.githubusercontent.com/59359937/194953388-d5b1af9e-377a-4b82-8107-4918a2449ccb.jpg" width="300"/>
+    </ul>
     <ul>
       <li>Select file name</li>
       <li>Select coding language</li>
