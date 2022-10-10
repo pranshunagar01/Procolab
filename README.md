@@ -60,6 +60,7 @@ Link -
       <li>
         Create a new account.
         <ul>
+          <img style="display: inline" src="https://user-images.githubusercontent.com/59359937/194953139-703069fa-a140-42a5-86d4-09b0fe50a574.jpg" width="300"/>
           <li>Click on Sign Up</li>
           <li>Enter an email you want your account to be associated with</li>
           <li>Enter a password and confirm it.</li>
@@ -70,6 +71,7 @@ Link -
       <li>
         Login with a Google account.
         <ul>
+          <img style="display: inline" src="https://user-images.githubusercontent.com/59359937/194953250-d82b1b49-831a-4f80-af0e-d9958f6d4e04.jpg" width="300"/>
           <li>Click on Continue with Google</li>
           <li>Select the Gmail account.</li>
           <li>You will be successfully logged in.</li>
@@ -80,6 +82,10 @@ Link -
   <br>
   <li>
     Create a new project by selecting "Make a Project"
+     <ul>
+        <img style="display: inline" src="https://user-images.githubusercontent.com/59359937/194953388-d5b1af9e-377a-4b82-8107-4918a2449ccb.jpg" width="300"/>
+     </ul>
+
     <ul>
       <li>Select file name</li>
       <li>Select coding language</li>
