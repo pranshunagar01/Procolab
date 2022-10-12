@@ -255,4 +255,4 @@ To run the project locally, follow the steps below:
 
 </ol>
 <br><br>
-For any queries, please (mailTo:pranshu.nagar@mavs.uta.edu)
+For any queries, please write to me at <a href="mailTo:pranshu.nagar@mavs.uta.edu">pranshu.nagar@mavs.uta.edu</a>
