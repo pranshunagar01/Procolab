@@ -242,6 +242,6 @@ To run the project locally, follow the steps below:
 4. Run the command "npm install"
 5. Run the command "npm start"
 6. The project will be running on localhost:3000
-
-For any queries, please contact me at:<br>
+<br>
+For any queries, please contact me at:<br><br>
 Gmail: pranshu.nagar@mavs.uta.edu
