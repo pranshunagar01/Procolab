@@ -244,4 +244,4 @@ To run the project locally, follow the steps below:
 6. The project will be running on localhost:3000
 <br><br>
 For any queries, please contact me at:<br>
-Gmail: mailTo:pranshu.nagar@mavs.uta.edu
+Gmail:  (mailTo:pranshu.nagar@mavs.uta.edu)
