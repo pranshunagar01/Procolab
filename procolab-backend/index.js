@@ -1,29 +1,30 @@
-/* procolab-backend v1.0.0 - 2022-09-09 */
+//procolab-backend v1.0.0 - 2022-09-09
 
-/* This is the main backend file for Procolab. It handles all the basic requests and responses from the client. */
+//This is the main backend file for Procolab. 
+// It handles all the basic requests and responses from the client.
 
-/* Import Express as a dependency */
+// Import Express as a dependency
 const express = require('express');
 
-/* Create an instance of Express */
+// Create an instance of Express
 const app = express();
 
-/* body-parser is a middleware that parses the body of the request */
+// body-parser is a middleware that parses the body of the request
 const bodyParser = require('body-parser');
 
-/* cors is a middleware that allows cross-origin requests */
+// cors is a middleware that allows cross-origin requests
 const cors = require('cors');
 
-/* Use the body-parser middleware */
+// Use the body-parser middleware
 app.use(bodyParser.urlencoded({extended: true}));
 
-/* Use cors to allow cross-origin requests */
+// Use cors to allow cross-origin requests
 app.use(cors());
 
-/* Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment */
+// Mongoose is a MongoDB object modeling tool designed to work in an asynchronous environment
 const mongoose = require('mongoose');
 
-/* Use json parser */
+// Use json parser
 app.use(express.json());
 
 
