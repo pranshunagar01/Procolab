@@ -228,19 +228,31 @@ Link -
 </ul>
 
 To run the project locally, follow the steps below:
-1. Clone the repository using any of the following methods:
-   a. Using the GitHub CLI
-      i. Open the terminal
-      ii. Run the command "git clone https://github.com/pranshunagar01/Procolab.git"
-   b. Using the GitHub website
-      i. Go to the repository page (https://github.com/pranshunagar01/Procolab)
-      ii. Click on the "Code" button
-      iii. Click on the "Download ZIP" button
-      iv. Extract the ZIP file
-2. Open the project in your preferred IDE
-3. Open the terminal
-4. Run the command "npm install"
-5. Run the command "npm start"
-6. The project will be running on localhost:3000
+<ol>
+ <li>Clone the repository using any of the following methods:
+   <ul>
+   <li>Using the GitHub CLI
+      <ol>
+         <li>Open the terminal</li>
+         <li>Run the command "git clone https://github.com/pranshunagar01/Procolab.git"</li>
+      </ol>
+   </li>
+   <li>Using the GitHub website
+      <ol>
+         <li>Go to the repository page (https://github.com/pranshunagar01/Procolab)</li>
+         <li>Click on the "Code" button</li>
+         <li>Click on the "Download ZIP" button</li>
+         <li>Extract the ZIP file</li>
+      </ol>
+   </li>
+   </ul>
+ </li>
+   <li>Open the project in your preferred IDE</li>
+<li>Open the terminal</li>
+<li>Run the command "npm install"</li>
+<li>Run the command "npm start"</li>
+<li>The project will be running on localhost:3000</li>
+
+</ol>
 <br><br>
 For any queries, please (mailTo:pranshu.nagar@mavs.uta.edu)
