@@ -244,8 +244,6 @@ Link -
         Save, Refresh, Run Code in real-time
         <ul>
            <br><br>
-            <img style="display: inline" src="https://user-images.githubusercontent.com/59359937/201534522-5dbb6ecc-68e5-44d2-93b1-a29d863c5963.jpg" width="400"/>
-            <img style="display: inline" src="https://user-images.githubusercontent.com/59359937/201534578-3a39d12f-4eee-4cc7-b68d-eb7a1e2758a0.jpg" width="400"/>
         </ul>
         <ul>
             <li>Refresh to load the newest code</li>
